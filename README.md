@@ -13,4 +13,3 @@ I blog about my work on [LinkedIn](https://www.linkedin.com/feed/).
 Want to reach me?
 Email me at: wainwrightelora@gmail.com
 or contact me on socials: https://princeleowainwright.carrd.co
-
