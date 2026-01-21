@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Elora (nickname Leo) and I am an aspiring Game Designer, who graduated Falmouth University!
+My name is [Elora](https://wainwrightelora2.wixsite.com/wainwrightgamedesign). (nickname Leo) and I am an aspiring Game Designer, who graduated Falmouth University!
 
 I am currently learning Unreal both interface and visual coding, along with my continued studies of Game Design.
 
