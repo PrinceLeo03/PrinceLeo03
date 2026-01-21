@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**PrinceLeo03/PrinceLeo03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Elora (nickname Leo) and I am an aspiring Game Designer, who graduated Falmouth University!
 
-Here are some ideas to get you started:
+I am currently learning Unreal both interface and visual coding, along with my continued studies of Game Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learnt in Unity, Fork, and agile practices. 
+My favourite tools are Milanote, Trello, Miro, and Obsidian.
+
+I am currently making a multitude of short term projects to develop my skills as Game Designer and learn various engines/programs.
+I blog about my work on [LinkedIn](https://www.linkedin.com/feed/).
+
+Want to reach me?
+Email me at: wainwrightelora@gmail.com
+or contact me on socials: https://princeleowainwright.carrd.co
+
